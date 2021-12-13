@@ -1,0 +1,28 @@
+{
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "tabnine.experimentalAutoImports": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": false
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.fontFamily": "'fira code'",
+  "editor.fontLigatures": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "git.autofetch": true,
+  "editor.linkedEditing": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorBlinking": "expand",
+  "git.confirmSync": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "editor.wordWrap": "on",
+  "svelte.enable-ts-plugin": true,
+  "workbench.iconTheme": "vscode-icons"
+}
