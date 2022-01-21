@@ -10,7 +10,7 @@
     "markdown": false
   },
   "vsicons.dontShowNewVersionMessage": true,
-  "editor.fontFamily": "'fira code'",
+  "editor.fontFamily": "'jetbrains mono'",
   "editor.fontLigatures": true,
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnSave": true,
