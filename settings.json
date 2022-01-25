@@ -15,14 +15,20 @@
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "git.autofetch": true,
   "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.cursorBlinking": "expand",
   "git.confirmSync": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
   "editor.wordWrap": "on",
   "svelte.enable-ts-plugin": true,
-  "workbench.iconTheme": "vscode-icons"
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  }
 }
