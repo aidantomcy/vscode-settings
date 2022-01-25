@@ -30,5 +30,8 @@
   },
   "[php]": {
     "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
   }
 }
