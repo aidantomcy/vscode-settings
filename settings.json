@@ -34,5 +34,8 @@
     "editor.defaultFormatter": "ms-python.python"
   },
   "terminal.integrated.cursorStyle": "line",
-  "css.lint.unknownAtRules": "ignore"
+  "css.lint.unknownAtRules": "ignore",
+  "terminal.integrated.autoReplies": {
+    "Terminate batch job (Y/N)?": "Y\r"
+  }
 }
