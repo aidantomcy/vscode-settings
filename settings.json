@@ -10,8 +10,7 @@
     "markdown": false
   },
   "vsicons.dontShowNewVersionMessage": true,
-  "editor.fontFamily": "'jetbrains mono'",
-  "editor.fontLigatures": true,
+  "editor.fontFamily": "hack",
   "editor.bracketPairColorization.enabled": true,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -24,7 +23,7 @@
   "svelte.enable-ts-plugin": true,
   "workbench.iconTheme": "vscode-icons",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "GitHub Dark",
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
