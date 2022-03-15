@@ -22,7 +22,7 @@
   "editor.wordWrap": "on",
   "svelte.enable-ts-plugin": true,
   "workbench.iconTheme": "vscode-icons",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "workbench.colorTheme": "GitHub Dark",
   "[go]": {
     "editor.defaultFormatter": "golang.go"
