@@ -32,5 +32,6 @@
   },
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
-  }
+  },
+  "terminal.integrated.cursorStyle": "line"
 }
