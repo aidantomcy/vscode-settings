@@ -1,6 +1,5 @@
 {
   "editor.suggestSelection": "first",
-  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "tabnine.experimentalAutoImports": true,
   "editor.inlineSuggest.enabled": true,
   "github.copilot.enable": {
