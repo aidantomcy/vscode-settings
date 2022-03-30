@@ -23,12 +23,6 @@
   "workbench.iconTheme": "vscode-icons",
   "terminal.integrated.defaultProfile.windows": "Command Prompt",
   "workbench.colorTheme": "GitHub Dark",
-  "[go]": {
-    "editor.defaultFormatter": "golang.go"
-  },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-  },
   "[python]": {
     "editor.defaultFormatter": "ms-python.python"
   },
