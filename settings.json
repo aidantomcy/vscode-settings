@@ -30,5 +30,8 @@
   "css.lint.unknownAtRules": "ignore",
   "terminal.integrated.autoReplies": {
     "Terminate batch job (Y/N)?": "Y\r"
-  }
+  },
+  "editor.fontSize": 15,
+  "snyk.yesWelcomeNotification": false,
+  "python.formatting.provider": "black"
 }
